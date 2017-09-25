@@ -1,1 +1,2 @@
-C# example calling QA Gateway on Bluemix.
+# HoriWatson
+Aplicación de Servicio Watson-Conversation de Bluemix
